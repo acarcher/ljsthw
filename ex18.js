@@ -1,6 +1,6 @@
 exports.fruit = [
     ['Apples', 12, 'AAA'], ['Oranges', 1, 'B'],
-    ['Pears', 3, 'A'], ['Grapes', 14, 'UR']
+    ['Pears', 2, 'A'], ['Grapes', 14, 'UR']
 ];
 
 exports.cars = [
